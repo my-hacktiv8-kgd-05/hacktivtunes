@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Funtastic Kpop",
+    "type": "Mythic",
+    "songs": [
+      {
+        "name": "Mr Chu",
+        "group": "Apink",
+        "duration": 180
+      },
+      {
+        "name": "No No NO",
+        "group": "Apink",
+        "duration": 200
+      },
+      {
+        "name": "Wishlist",
+        "group": "Apink",
+        "duration": 180
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Waktunya Hacktivtunes",
+    "type": "Epic",
+    "songs": [
+      {
+        "name": "Waktunya BUlan",
+        "group": "Hivi",
+        "duration": 145
+      },
+      {
+        "name": "Saling Merindu",
+        "group": "RAN",
+        "duration": 180
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Work from home",
+    "type": "Legend",
+    "songs": [
+      {
+        "name": "Konco Mesra",
+        "group": "Nella Kharisma",
+        "duration": 190
+      },
+      {
+        "name": "Pamer Bojo",
+        "group": "Didi Kempot",
+        "duration": 250
+      },
+      {
+        "name": "Meraih Bintang",
+        "group": "Via Vallen",
+        "duration": 120
+      }
+    ]
+  }
+]
